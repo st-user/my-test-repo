@@ -1,1 +1,2 @@
 hoge
+in the new_branch
